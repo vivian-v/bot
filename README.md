@@ -11,7 +11,7 @@ What the process looks like filling out the form
 ![](DemoPart2.gif)
 
 After filling out form, their stats gets uploaded to a spreadsheet. Blurred out for privacy.
-![](Demo.png)
+![](Demo1.png)
 
 
 
